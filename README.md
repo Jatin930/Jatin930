@@ -26,7 +26,7 @@
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="java" width="40" height="40"/>
 
-
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="java" width="40" height="40"/>
 
 <br><br>
 <img align="right" alt="CodingGif" width = "300" src="https://blog.gfuel.com/hs-fs/hubfs/G%20FUEL%20Blog/trunks%20nintendo%20wii%20dragon%20ball%20z%20meme.gif?width=500&name=trunks%20nintendo%20wii%20dragon%20ball%20z%20meme.gif">
