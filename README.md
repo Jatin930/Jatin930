@@ -29,12 +29,19 @@
 <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="java" width="40" height="40"/>
 
 
+
 <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="java" width="40" height="40"/>
 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="java" width="40" height="40"/>
 
 
 <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" alt="java" width="40" height="40"/>
+
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1917px-OpenShift-LogoType.svg.png" alt="java" width="40" height="40"/>
+
+
+
+
 
 <br><br>
 <img align="right" alt="CodingGif" width = "300" src="https://blog.gfuel.com/hs-fs/hubfs/G%20FUEL%20Blog/trunks%20nintendo%20wii%20dragon%20ball%20z%20meme.gif?width=500&name=trunks%20nintendo%20wii%20dragon%20ball%20z%20meme.gif">
